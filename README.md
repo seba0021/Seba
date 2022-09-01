@@ -1,2 +1,2 @@
 # Seba
-Primer repositorio en GitHub
+Primer repositorio intencional en GitHub
